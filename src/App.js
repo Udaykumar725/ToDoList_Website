@@ -15,7 +15,7 @@ function App() {
             ...prevNotes, newNote
           ]
          })
-         console.log(notes)
+        //  console.log(notes)
   }
 
   function deleteNote(id){
